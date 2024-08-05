@@ -13,7 +13,6 @@ Awesome list of status pages opensource software, online services, and public st
 * [Cachet](https://cachethq.io/) - Laravel based status page system for everyone. [3.x coming soon](https://github.com/cachethq/cachet/discussions/4342).
 * [ClearStatus](https://github.com/weeblrpress/clearstatus/) - Hugo-based status page, supports Netlify. Supports events from Github, Gitlab or any git repo with markdown.
 * [ciao](https://github.com/brotandgames/ciao) - checks HTTP(S) URL endpoints for a HTTP status code (or errors on the lower TCP stack) and sends a notification on status change via E-Mail or Webhooks.
-* ~~[Corestats](https://github.com/jayfk/statuspage)~~ - *(Discontinued / Un-Supported)*
 * [cState](https://github.com/cstate/cstate) - Simple, dev friendly, and free to host (Netlify & GitHub Pages)
 * [dish](https://github.com/savla-dev/savla-dish) - Simple and fast socket checker written in Go, can be integrated with a Telegram bot
 * [django-statusboard](https://github.com/edigiacomo/django-statusboard/) - Django status page application with browser and REST interface.
@@ -24,9 +23,8 @@ Awesome list of status pages opensource software, online services, and public st
 * [HertzBeat](https://github.com/dromara/hertzbeat) - An open source, real-time monitoring system with agentless, cluster, prometheus-compatible, custom and status page.
 * [Issue Status](https://github.com/tadhglewis/issue-status) - Simple, modern and flexible status page
 * [Kardio](https://github.com/tmobile/kardio) - Simple Health Status Tool with Rich UI for Services deployed on Kubernetes and other platforms.
-* ~~[LambStatus](https://lambstatus.github.io)~~ *(Discontinued / Un-Supported)*
+* [LambStatus](https://lambstatus.github.io) - Build and maintain your status page with minimum effort and cost
 * [Monitoror](https://monitoror.com/) - monitoring wallboard
-* ~~[Okazanta](https://github.com/okazanta/Okazanta-legacy)~~ *(Discontinued / Un-Supported)*
 * [OneUptime](https://oneuptime.com/product/status-page) - OneUptime public and private status pages
 * [Pagetron](https://github.com/agrrh/pagetron) - Status page generator, based on Prometheus, designed to be deployed to Kubernetes clusters
 * [Server-Status](https://github.com/Pryx/server-status)
@@ -34,7 +32,6 @@ Awesome list of status pages opensource software, online services, and public st
 * [Static status](https://github.com/Cyclenerd/static_status) - Bash script to generate a static status page
 * [statping-ng](https://github.com/statping-ng/statping-ng) - Actively maintained fork of [statping/statping](https://github.com/statping/statping)
 * [Statsig's Status Page](https://github.com/statsig-io/statuspage) - A simple, pure html/js, zero-dependency status page powered by GitHub Pages and Actions.
-* ~~[Statusfy](https://marquez.co/statusfy)~~ *(Discontinued / Un-Supported)*
 * [StatusOK](https://github.com/sanathp/statusok)
 * [Statusphere](https://github.com/metoro-io/statusphere) - Api-first status page aggregator
 * ~~[statuspage](https://github.com/darkpixel/statuspage)~~ - Simple self-hosted open source status page site written in Django (inspired by [Cachet](https://cachethq.io/)) *(Discontinued)*
@@ -44,7 +41,6 @@ Awesome list of status pages opensource software, online services, and public st
 * [Statusimo](https://github.com/EvotecIT/Statusimo) - A PowerShell module that is able to generate a status page entirely from PowerShell.
 * [Tinystatus](https://github.com/bderenzo/tinystatus) - A tiny static status page generator (written in pure shell)
 * [Upptime](https://github.com/upptime/upptime) - monitor and status page powered by GitHub
-* ~~[Uptimon](https://github.com/RatherLogical/Uptimon) - A PHP powered status page/monitoring solution.~~ *(Looks like project removed or set to private)*
 * [Uptime-Kuma](https://github.com/louislam/uptime-kuma) - A self-hosted monitoring tool like "Uptime Robot".
 * [Vigil](https://github.com/valeriansaliou/vigil) - Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
 * [Workers Status Page](https://github.com/eidam/cf-workers-status-page) - Cloudflare Workers (completely on the edge) powered monitoring & status page.
@@ -52,9 +48,8 @@ Awesome list of status pages opensource software, online services, and public st
 * [Kener](https://kener.ing/) - A SvelteKit + Node.js status page with incident management.
 
 ## Services
-* [AdminLabs Statuspage](https://www.adminlabs.com/status-page/)
+* [AdminLabs Statuspage](https://www.adminlabs.com/status-page/) - Customizable hosted status page
 * [AppBeat Monitoring](https://www.appbeat.io/) - uptime monitoring with integrated status page
-* ~~[Asserted.io](https://asserted.io) - uptime tests written in Mocha~~ *(Discontinued)*
 * [Odown](https://odown.io) - Public Status Pages with built-in monitoring for websites and APIs
 * [Better Stack](https://betterstack.com/status-page) - Uptime monitoring, on-call alerting, and status pages
 * [Bluesky](https://status.bsky.app) - Status page for Bluesky social network
@@ -65,14 +60,14 @@ Awesome list of status pages opensource software, online services, and public st
 * [OneUptime](https://oneuptime.com/product/status-page) - OneUptime public and private status pages
 * [HetrixTools](https://hetrixtools.com) - uptime monitoring for ips and websites with an integrated status page
 * [Hexadecimal](https://tryhexadecimal.com) - uptime & certificate monitoring and hosted status pages
-* [Hund](https://hund.io/)
+* [Hund](https://hund.io/) - Proactive Status Pages & Monitoring
 * [Hydrozen.io](https://hydrozen.io/) - Uptime monitoring with built in fast Statuspages & Analytics.
 * [Hyperping.io](https://hyperping.io) - Public & private status pages with built-in monitoring.
 * [IsDown.app](https://isdown.app) - Status pages aggregator for all third-party services & Uptime monitoring.
 * [incident.io](https://incident.io/status-pages) - Public, private (domain authenticated), and internal status pages.
 * [Instatus](https://instatus.com) - Free online service with a static & customizable page.
 * [Incident.io](https://incident.io) - Incident management, on-call alerting, and public, customer, and private status pages.
-* ~~[LambStatus](https://lambstatus.github.io/)~~ *(Discontinued / Un-Supported)*
+* [LambStatus](https://lambstatus.github.io) - Build and maintain your status page with minimum effort and cost
 * [LIVCK](https://livck.com) - Monitoring with private/public statuspage
 * [NixStats](https://nixstats.com/) - service for servers, web, log and blacklists monitoring
 * [OnlineOrNot](https://onlineornot.com) - hosted public/private status pages with integrated uptime monitoring for websites and APIs
@@ -92,7 +87,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [StatusList](https://statuslist.app) - Hosted status pages, uptime monitoring and debug tools in one dashboard.
 * [Statuspage.io](https://www.statuspage.io) - online service from Atlassian
 * [Statuspal](https://statuspal.io) - Hosted status pages & monitoring.
-* ~~[Statusy](https://statusy.co) *(Discontinued)*~~
+* [Supermonitoring](https://www.supermonitoring.com/) - Comprehensive monitoring of proper functioning of a website or web application
 * [StatusTicker](https://statusticker.com) - Aggregated service provider incident and outage monitoring
 * [UpDown.io](https://updown.io/) - uptime monitoring with flexible status with rest api
 * [Uptime Robot](https://uptimerobot.com/)
