@@ -141,6 +141,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Mail.ru cloud Status](https://status.mcs.mail.ru/) - Mail.ru Cloud Solutions status page
 * [Microsoft Advertisement Status](https://status.ads.microsoft.com/) - Microsoft Advertisement status page
 * [Microsoft Office365 Status](https://status.office365.com/) - Microsoft Office365 status page
+* [Microsoft Service Status](https://portal.office.com/servicestatus) - Microsoft Service Health status page
 * [Odoo](https://www.saashub.com/odoo-status) - Odoo Status page on 3rd-party page
 * [Okta](https://status.okta.com/) - Okta public status page
 * [OpenAI Status](https://status.openai.com/) - OpenAI's home for real-time and historical data on system performance
@@ -190,5 +191,5 @@ Awesome list of status pages opensource software, online services, and public st
 * [UpCloud](https://status.upcloud.com) - UpCloud status page
 * [Vercel](https://www.vercel-status.com/) - Vercel status page
 * [Vultr](https://status.vultr.com) - Vultr status page
-* [Workspace ONE](https://status.workspaceone.com) - VMware Workspace ONE status page
+* [Workspace ONE](https://status.broadcom.com/services/vmware-cloud-services) - VMware/Broadcom Workspace ONE status page
 * [Yandex.Cloud](https://status.cloud.yandex.ru/) - Yandex.Cloud status page
