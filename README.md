@@ -27,12 +27,12 @@ Awesome list of status pages opensource software, online services, and public st
 * [Monitoror](https://monitoror.com/) - monitoring wallboard
 * [OneUptime](https://oneuptime.com/product/status-page) - OneUptime public and private status pages
 * [Pagetron](https://github.com/agrrh/pagetron) - Status page generator, based on Prometheus, designed to be deployed to Kubernetes clusters
-* [Server-Status](https://github.com/Pryx/server-status)
+* [Server-Status](https://github.com/Pryx/server-status) - Server status page written in PHP
 * [StashBoard](http://www.stashboard.org/) - Python, for Google App Engine (*Deprecated*)
 * [Static status](https://github.com/Cyclenerd/static_status) - Bash script to generate a static status page
 * [statping-ng](https://github.com/statping-ng/statping-ng) - Actively maintained fork of [statping/statping](https://github.com/statping/statping)
 * [Statsig's Status Page](https://github.com/statsig-io/statuspage) - A simple, pure html/js, zero-dependency status page powered by GitHub Pages and Actions.
-* [StatusOK](https://github.com/sanathp/statusok)
+* [StatusOK](https://github.com/sanathp/statusok) - Monitor your Website and APIs from your computer
 * [Statusphere](https://github.com/metoro-io/statusphere) - Api-first status page aggregator
 * ~~[statuspage](https://github.com/darkpixel/statuspage)~~ - Simple self-hosted open source status page site written in Django (inspired by [Cachet](https://cachethq.io/)) *(Discontinued)*
 * [Staytus](https://staytus.co/)
@@ -71,7 +71,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [NixStats](https://nixstats.com/) - service for servers, web, log and blacklists monitoring
 * [OnlineOrNot](https://onlineornot.com) - hosted public/private status pages with integrated uptime monitoring for websites and APIs
 * [PageFate.com](https://pagefate.com) - free online service with customisable design
-* [PagerDuty Status Pages](https://www.pagerduty.com/platform/business-ops/status-pages/)
+* [PagerDuty Status Pages](https://www.pagerduty.com/platform/business-ops/status-pages/) - incident management & status pages
 * [PingPong](https://pingpong.one) - incident management, uptime & certificate monitoring and hosted status pages
 * [Rootly](https://rootly.io) - incident response platform with status pages built-in
 * [Pulsetic](https://pulsetic.com/) - create status pages & incident management reports and keep your visitors updated
@@ -79,7 +79,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Sematext Cloud](https://sematext.com/status-pages-and-incidents/) - public & private status pages with incidents, uptime metrics and charts offered as part of Sematext Synthetics
 * [Sorry™](https://www.sorryapp.com)
 * [Squadcast](https://www.squadcast.com) - On-Call & SRE platform with StatusPages built-in
-* [Status.io](https://status.io)
+* [Status.io](https://status.io) - Hosted System Status Pages & incident tracking
 * [StatusCast](https://statuscast.com/)
 * [StatusKeeper](https://statuskeeper.com/)
 * [StatusKit](https://statuskit.com/)
