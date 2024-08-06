@@ -55,7 +55,6 @@ Awesome list of status pages opensource software, online services, and public st
 * [Bluesky](https://status.bsky.app) - Status page for Bluesky social network
 * [Checkly](https://www.checklyhq.com) - API & E2E monitoring platform
 * [Cronitor.io](https://cronitor.io/status-pages) - Status Pages with built-in monitoring for websites, APIs, cron jobs and heartbeats.
-* [FreshStatus](https://www.freshworks.com/statuspage/)
 * [Garmingo Status](https://garmingo.com/status) - Uptime monitoring and status pages for websites, APIs, ...
 * [OneUptime](https://oneuptime.com/product/status-page) - OneUptime public and private status pages
 * [HetrixTools](https://hetrixtools.com) - uptime monitoring for ips and websites with an integrated status page
@@ -119,6 +118,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Facebook for Business Status](https://status.fb.com/) - Facebook platform status page
 * [Facebook Platform Status](https://developers.facebook.com/status/dashboard/) - Facebook platform status page
 * [Fastly Status Page](https://status.fastly.com/) - Fastly Status
+* [Freshworks Status Page](https://status.freshworks.com/) - Freshowrks stats page
 * [GitHub Status API](https://status.github.com/api) - GitHub status using REST API
 * [GitHub Status](https://status.github.com/) - GitHub status page
 * [GitLab System Status](https://status.gitlab.com) - GitLab status page
