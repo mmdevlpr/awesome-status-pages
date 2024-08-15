@@ -120,7 +120,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Fastly Status Page](https://status.fastly.com/) - Fastly Status
 * [Freshworks Status Page](https://status.freshworks.com/) - Freshowrks stats page
 * [GitHub Status API](https://status.github.com/api) - GitHub status using REST API
-* [GitHub Status](https://status.github.com/) - GitHub status page
+* [GitHub Status](https://www.githubstatus.com/) - GitHub status page
 * [GitLab System Status](https://status.gitlab.com) - GitLab status page
 * [Google Ads](https://ads.google.com/status/publisher/) - Google Ads status page
 * [Google Search](https://status.search.google.com) - Google Search status page
